@@ -1,1 +1,3 @@
-# coding-project-template
+Event Planner
+
+This project is a simple web application built with React and Vite that allows users to explore and plan various types of events. The app features sections for social, entertainment, and community events, providing users with an overview of event categories and examples. It includes a feature list, testimonials, and a contact form for inquiries. The purpose of the project is to demonstrate a functional, well-structured front-end design using modern web technologies. It focuses on clean component-based architecture, user-friendly layout, and basic interactivity suitable for beginners learning front-end development with React and Vite.
